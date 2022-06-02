@@ -29,8 +29,13 @@ select.form-control:focus {
   background-image: url("./assets/images/logo.svg");
   width: 80px;
   height: 30px;
-  left: 30px;
+  left: 100px;
   top: 20px;
   background-repeat: no-repeat;
   position: absolute;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: center;
 }
