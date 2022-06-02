@@ -38,4 +38,12 @@ select.form-control:focus {
 .nav-container {
   display: flex;
   justify-content: center;
+  height: 80px;
+  border-bottom: 0.8px solid white;
 }
+
+/* .horizontal-line {
+  border: none;
+  height: 5px;
+  background-color: white;
+} */
